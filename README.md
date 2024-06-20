@@ -5,7 +5,7 @@ The dataset consists of dental radiography images along with annotations for cla
 
 Here's an example of what the model does
 
-![image](https://github.com/rayaneghilene/Knapsack_pb/assets/100053511/5f921187-cf07-4eba-82d7-7209a155a9e7)
+![image](https://github.com/rayaneghilene/Dental_Radiography_Analysis/blob/main/testimage.png)
 
 ## Usage
 ### 1. Clone the repository:
